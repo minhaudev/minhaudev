@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="./bg.jpg"  />
 </div>
 
 <div align="center">
@@ -8,13 +8,12 @@
   </a>
 </div>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F76736&width=435&lines=Hey%F0%9F%91%8Beveryone!;I'm+Minh+Hau+Nguyen" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&pause=1000&color=5170FF&width=435&lines=Hey%F0%9F%91%8Beveryone!;I'm+Minh+Hau+Nguyen" alt="Typing SVG" /></a>
 </div>
 
 
 
-
-<h2  align="left">About me</h2>
+<h2  align="left">[About Me]</h2>
 
 ###
 
@@ -22,7 +21,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">[I Code With]</h2>
 
 <div align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img
@@ -57,6 +56,7 @@
     height="65"
   />
 </div>
+
 <div align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img
     src="https://techstack-generator.vercel.app/django-icon.svg"
@@ -114,19 +114,12 @@
   />
 </div>
 
+<h2  align="left">[GitHub Profile Stats]</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhaudev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhaudev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img alt="minhaudev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=minhaudev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=5170FFFF&icon_color=F8D866" height="192px"/>
+  <img alt="minhaudev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaudev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=5170FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <img alt="minhaudev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=minhaudev&bg_color=1F222E&color=5170FFFF&line=5170FFFF&point=FFFFFF&area=true&hide_border=true&radius=8" height="268px"/>
 </div>
-
-###
-
-
-###
-
-<img src="https://raw.githubusercontent.com/minhaudev/minhaudev/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 
@@ -134,7 +127,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
