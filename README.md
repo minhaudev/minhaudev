@@ -1,5 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&width=435&lines=Minh+Hau+dev](https://www.google.com/imgres?q=background%20coder&imgurl=https%3A%2F%2Fimage.slidesdocs.com%2Fresponsive-images%2Fbackground%2Fan-illustration-depicting-the-world-of-coding-and-programming-in-3d-powerpoint-background_8cd0b4017f__960_540.jpg&imgrefurl=https%3A%2F%2Fslidesdocs.com%2Fbackground%2Fan-illustration-depicting-the-world-of-coding-and-programming-in-3d-powerpoint-background_8cd0b4017f&docid=rESmPOIpe1KSAM&tbnid=Gw5RICnpuXzbuM&vet=12ahUKEwj7orqkieqHAxUnTmwGHTpzEkk4ChAzegQIChAA..i&w=960&h=540&hcb=2&ved=2ahUKEwj7orqkieqHAxUnTmwGHTpzEkk4ChAzegQIChAA)"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&width=435&lines=Minh+Hau+dev"/>
   </a>
 </div>
